@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/kr/pty"
-	"github.com/tuxychandru/pubsub"
+	"github.com/cskr/pubsub"
 
 	"github.com/abourget/slick"
 	"github.com/abourget/slick/internal"
